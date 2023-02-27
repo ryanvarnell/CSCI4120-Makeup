@@ -1,0 +1,8 @@
+.idea
+venv
+venv3_10
+*.iml
+out
+gen
+!/Report.odt
+!/.~lock.Report.odt#
