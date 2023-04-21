@@ -1,5 +1,5 @@
 ## Introduction
-Repository for CSCI 4120 - Machine Learning makeup work graciously allowed by Dr. Rui Wu. \
+Repository for CSCI 4120 - Machine Learning makeup work.\
 The two .py files, **LinearRegression.py** and **RandomForest.py**, contain the two ML models (four if you count 
 LinearRegression as three).\
 The written report can be found in **Report.pdf**. Report.odt is present as that's what LibreOffice Writer uses as its 
